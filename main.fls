@@ -325,10 +325,10 @@ INPUT .\main.out
 INPUT .\main.out
 INPUT main.out
 INPUT main.out
+OUTPUT main.pdf
 INPUT .\main.out
 INPUT .\main.out
 OUTPUT main.out
-OUTPUT main.pdf
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -365,15 +365,32 @@ INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\jknappen\ursfs.fd
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+OUTPUT main.toc
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
