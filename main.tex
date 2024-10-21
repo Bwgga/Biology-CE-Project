@@ -35,6 +35,17 @@
 \usepackage{mathrsfs} % for \mathscr command
 \usepackage{amsmath}
 
+% todo list stuff
+\usepackage{enumitem}
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=$\square$}
+\usepackage{pifont}
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+\newcommand{\done}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\cmark}}%
+\hspace{-2.5pt}}
+\newcommand{\wontfix}{\rlap{$\square$}{\large\hspace{1pt}\xmark}}
+
 %graph stuff
 \usepackage{pgfplots}
 \pgfplotsset{width=15cm,compat=1.9}
@@ -48,7 +59,7 @@
 \author{Giovanna G. Amorim 233 4984, [Other Lab Partners]}
 
 \date{Dawson College \\[15pt]
-203-NYB-05 section 00001\\[15pt]
+000-000-000 section 00001\\[15pt]
 Dr. Jeffery K. Eng\\[15pt]
 Submission: \today}
 
@@ -77,13 +88,21 @@ Submission: \today}
 \section{Discussion}
 \label{sec:discussion}
 
-%\printbibliography[heading=intoc]
+%\printbibliography[heading=bibintoc]
 
 \section*{Appendix A: Raw Data}
 \label{sec:appendixa}
 
 \section*{Appendix B: Calculations}
 \label{sec:appendixb}
+
+
+\section{[temporary] TODO list}
+
+
+
+
+
 
 \end{document}
 
