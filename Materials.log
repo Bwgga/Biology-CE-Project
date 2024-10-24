@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.13)  24 OCT 2024 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.13)  24 OCT 2024 13:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/main.tex"
-(c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/main.tex
+**"c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/Materials.tex"
+(c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/Materials.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
 (C:\Users\bwgga\Documents\App setups\MiKTeX\tex/latex/base\article.cls
@@ -754,12 +754,12 @@ File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\bwgga\Documents\App setups\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\bwgga\Documents\App setups\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.external.code.tex (C:\Users\bwgga\Documents\App setups\MiKTeX\tex/latex/pgf/frontendlayer/libraries\tikzlibraryexternal.code.tex (C:\Users\bwgga\Documents\App setups\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshared.code.tex)))
-\openout4 = `main.auxlock'.
+\openout4 = `Materials.auxlock'.
 
 \@quotelevel=\count455
 \@quotereset=\count456
- (main.aux)
-\openout1 = `main.aux'.
+ (Materials.aux)
+\openout1 = `Materials.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
@@ -815,9 +815,9 @@ LaTeX Font Info:    ... okay on input line 66.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 66.
-(main.out) (main.out)
+(Materials.out) (Materials.out)
 \@outlinefile=\write5
-\openout5 = `main.out'.
+\openout5 = `Materials.out'.
 
  (C:\Users\bwgga\Documents\App setups\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -846,11 +846,11 @@ File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `main.bcf'.
+\openout3 = `Materials.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
+Package biblatex Info: ... file 'Materials.bbl' found.
+ (Materials.bbl)
 Package biblatex Info: Reference section=0 on input line 66.
 Package biblatex Info: Reference segment=0 on input line 66.
 
@@ -859,39 +859,39 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 69.
 (C:\Users\bwgga\Documents\App setups\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) (main.toc)
+) (Materials.toc)
 \tf@toc=\write6
-\openout6 = `main.toc'.
+\openout6 = `Materials.toc'.
 
  [1
 
 {C:/Users/bwgga/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-LaTeX Warning: Empty bibliography on input line 91.
+LaTeX Warning: Empty bibliography on input line 99.
 
-[2] (main.aux)
+[2] (Materials.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B737A513EA8642E7FF8F0A343E0BCB2B;704.
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
+Package rerunfilecheck Info: File `Materials.out' has not changed.
+(rerunfilecheck)             Checksum: BEFE722D9F0F392FC486406998F73BA8;423.
+Package logreq Info: Writing requests to 'Materials.run.xml'.
+\openout1 = `Materials.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38380 strings out of 474491
- 887268 string characters out of 5744737
+ 38378 strings out of 474491
+ 887408 string characters out of 5744737
  1931473 words of memory out of 5000000
- 60088 multiletter control sequences out of 15000+600000
+ 60087 multiletter control sequences out of 15000+600000
  564482 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,6n,107p,805b,801s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,6n,107p,810b,801s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on main.pdf (2 pages, 96326 bytes).
+Output written on Materials.pdf (2 pages, 93487 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

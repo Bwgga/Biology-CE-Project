@@ -1,7 +1,7 @@
 PWD c:\Users\bwgga\Documents\School\Dawson\F24\Bio I\Biology-CE-Project
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\bwgga\Documents\School\Dawson\F24\Bio I\Biology-CE-Project\main.tex
-OUTPUT main.log
+INPUT c:\Users\bwgga\Documents\School\Dawson\F24\Bio I\Biology-CE-Project\Intro.tex
+OUTPUT Intro.log
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\base\size10.clo
@@ -328,19 +328,19 @@ INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\pgf\frontendlayer\lib
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\pgf\frontendlayer\libraries\tikzlibraryexternal.code.tex
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\atveryend\atveryend.sty
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzexternalshared.code.tex
-OUTPUT main.auxlock
-INPUT .\main.aux
-INPUT .\main.aux
-INPUT main.aux
-OUTPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
-INPUT main.out
-INPUT main.out
-OUTPUT main.pdf
-INPUT .\main.out
-INPUT .\main.out
-OUTPUT main.out
+OUTPUT Intro.auxlock
+INPUT .\Intro.aux
+INPUT .\Intro.aux
+INPUT Intro.aux
+OUTPUT Intro.aux
+INPUT .\Intro.out
+INPUT .\Intro.out
+INPUT Intro.out
+INPUT Intro.out
+OUTPUT Intro.pdf
+INPUT .\Intro.out
+INPUT .\Intro.out
+OUTPUT Intro.out
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -352,12 +352,12 @@ INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\00miktex\epstopdf-sys
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-OUTPUT main.bcf
-INPUT main.bbl
-INPUT .\main.bbl
-INPUT .\main.bbl
-INPUT .\main.bbl
-INPUT main.bbl
+OUTPUT Intro.bcf
+INPUT Intro.bbl
+INPUT .\Intro.bbl
+INPUT .\Intro.bbl
+INPUT .\Intro.bbl
+INPUT Intro.bbl
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -381,17 +381,17 @@ INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\main.toc
-INPUT .\main.toc
-INPUT main.toc
+INPUT .\Intro.toc
+INPUT .\Intro.toc
+INPUT Intro.toc
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-OUTPUT main.toc
+OUTPUT Intro.toc
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
-INPUT main.run.xml
-OUTPUT main.run.xml
+INPUT Intro.aux
+INPUT .\Intro.out
+INPUT .\Intro.out
+INPUT Intro.run.xml
+OUTPUT Intro.run.xml
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb

@@ -2,4 +2,3 @@
 \contentsline {section}{\numberline {2}Material and Methods}{2}{section.2}%
 \contentsline {section}{\numberline {3}Results}{2}{section.3}%
 \contentsline {section}{\numberline {4}Discussion}{2}{section.4}%
-\contentsline {section}{\numberline {5}Our notes (to each other) (to be removed)}{2}{section.5}%
