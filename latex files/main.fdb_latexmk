@@ -1,12 +1,11 @@
 # Fdb version 4
-["biber main"] 1733869334.87367 "main.bcf" "main.bbl" "main" 1733869498.22453 0
-  "Bio-ce.bib" 1733867484 14698 28a51c3dc864535679fc995f89ab9993 ""
-  "main.bcf" 1733869497 108763 ced7ca66671c74f9c25c0a0fa518d154 "pdflatex"
+["biber main"] 1733870224.29038 "main.bcf" "main.bbl" "main" 1733870227.25138 2
+  "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1733869495.82828 "c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex" "main.pdf" "main" 1733869498.22591 0
+["pdflatex"] 1733869544.21549 "c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex" "main.pdf" "main" 1733869546.75815 0
   "C:/Users/bwgga/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729614812 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/bwgga/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1717631142 11548 fe352a3fb102eb93d1c1dc253eef0cf9 ""
   "C:/Users/bwgga/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1717631110 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -228,16 +227,16 @@
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex" 1733869492 13475 221a28f3ed5b368ed14f31b79b2bb404 ""
+  "c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex" 1733869543 13479 009130f03730899fab9ac26113b288e3 ""
   "figs/fig1.jpg" 1733868386 42172 6a9fc99c21880cb9c2b639173e288734 ""
   "figs/fig2.png" 1733868823 7805219 365da8b339e4448d42b58110b939044d ""
   "figs/fig3.png" 1733868966 7926596 652753347a4e48fe4dbe7215d2746937 ""
-  "main.aux" 1733869497 4003 2e8aa4b0da3f15e6e5feb0493d2f9c0e "pdflatex"
-  "main.bbl" 1733869337 21221 c9bf07e137645c13fb71cd8d5eb56017 "biber main"
-  "main.out" 1733869497 505 a7ee61d11d17b902a88f94f81adecd7e "pdflatex"
-  "main.run.xml" 1733869497 2301 0ef382e74cb00e9eb4e7e81b43d4dce0 "pdflatex"
-  "main.tex" 1733869492 13475 221a28f3ed5b368ed14f31b79b2bb404 ""
-  "main.toc" 1733869497 274 bb3c5fb74c7010ccbf63d93fc55e6048 "pdflatex"
+  "main.aux" 0 -1 0 "pdflatex"
+  "main.bbl" 1733870226 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
+  "main.out" 0 -1 0 "pdflatex"
+  "main.run.xml" 0 -1 0 "pdflatex"
+  "main.tex" 1733869543 13479 009130f03730899fab9ac26113b288e3 ""
+  "main.toc" 0 -1 0 "pdflatex"
   (generated)
   "main.aux"
   "main.auxlock"
