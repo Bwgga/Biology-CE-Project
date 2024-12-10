@@ -41,3 +41,8 @@ What to say in intro: (O for done, X for not done)
 
 draft intro:
 Native to the rivers of South America, the *Electrophorus electricus*, more commonly known as the electric eel, releases high voltage currents through electrocyte cells, which allows it to generate a relatively large amount of electricity. The purpose of this experiment is to simulate the electrocytes of the electric eel in order to explore potential uses of this naturally occurring biological battery
+
+
+REAl Draft Intro:
+
+Native to the freshwater of South America, the *Electrophorus electricus*, or more commonly known as the electric eel, is known for its ability to generate electric discharges using speicalized muscles called electrocytes. Unfortunately, the voltages produced by an individual electrocyte cells is minimal (approximately 150 mV according to L. Guezi et al.).The purpose of this experiment is to simulate the electrocytes of the electric eel in order to explore potential uses of this biological battery and to optimize the voltage obtained using semi-permeable ionic membranes and placing the synthetic electrocyte set-up in saltwater. 
