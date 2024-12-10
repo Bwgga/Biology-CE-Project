@@ -12,3 +12,10 @@ Procedure:
 3. The filled dialysis membranes were placed back into their glasses, open side up, ensuring that the top of each piece protruded past the water level in the glasses.
 4. The setup was left for 12 hours to maximize ionic diffusion.
 5. The voltage of each sample was measured by placing two alligator-clip wires in each glass: one wire was placed inside the dialysis tubing, and one was placed in the glass but outside the tubing. The positive probe of the voltmeter was then attached to the wire outside the tubing, and the negative probe was connected to the wire inside the tubing. A reading was then made using the voltmeter and the data was recorded. This was repeated for each replicate.
+
+
+In one replicate, a small strip of aluminum foil was inserted into the dialysis tubing reservoir before the voltage was measured. When taking the voltage measurement, the negative probe was attached directly to the aluminium strip.
+
+In another replicate, 2.50mL of sodium alginate was added to the tubing in step 2 instead of the usual 1.25mL.
+
+For the control, the procedure was followed exactly with the omission of the sodium alginate powder.
