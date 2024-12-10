@@ -32,17 +32,14 @@ Their intro:
  is measured by a voltmeter, and the results can be compared.
 
 What to say in intro: (O for done, X for not done)
- [] battery inspired by electric eels
- [] inspired from previous paper theoretically designing the battery (lina's paper) (she apparently carried the project)
- [] how electric eels work
- [] how our prototype works (like how does our thing resemble the electric eel (this is for BIo class after all))
+ [O] battery inspired by electric eels
+ [O] inspired from previous paper theoretically designing the battery (lina's paper) (she apparently carried the project)
+ [O] how electric eels work
+ [OX?] how our prototype works (like how does our thing resemble the electric eel (this is for BIo class after all))
  [] ...
 
 
 draft intro:
-Native to the rivers of South America, the *Electrophorus electricus*, more commonly known as the electric eel, releases high voltage currents through electrocyte cells, which allows it to generate a relatively large amount of electricity. The purpose of this experiment is to simulate the electrocytes of the electric eel in order to explore potential uses of this naturally occurring biological battery
+Native to the freshwater rivers of South America, the Electrophorus electricus, or more commonly referred to as the electric eel, is known for its ability to generate electric organ discharges (EOD); these EODs can be classified into low-voltage EOD and high-voltage EOD. Low-voltage EODs are expressed at lower frequencies of about 10Hz to 20Hz (K.C Catania, 2019). Therefore, they are more practical for communication and determining the presence of organisms in their environment through a process called electrolocation: monitoring changes in a particular electric field (Bennett,1970). On the other hand, high-voltage EODs are used as an attack or defence mechanism, as they can reach frequencies of up to 500 Hz (K.C. Catania, 2019). However, whether the emitted EODs are expressed as low or high voltages, they are produced from a specific cell that makes up 80% of the eel’s surface area: electrocytes. (University of Western Australia, 2015). Electrocyte cells are arranged in series and are located in the electric eel’s three most prominent organs: Sach’s organ, the Main organ, and Hunter’s organ. (Figure 1.) This arrangement allows for the entire eel to be viewed as a battery, with the positive and negative poles at the head and tail respectively, allowing for the variety of EOD frequencies mentioned above. Although electric eels have the potential to release high-frequency EODs, the power produced remains nonetheless quite minimal. This is a result of the high resistance of the freshwater where these eels are found, or more precisely, the lack of ions to maintain the electric current. (Biomimetic potential of electric eels, Kommentare, 2017). As a result, to optimize the battery potential of the electric eels EOD, research was conducted by Lina Guezi, (Guezi, Lina et al.) to produce a synthetic replication of the electric eel’s electrocyte cells in ionized water. Our experiment aims to continue the research conducted in order to explore the potential uses of this biological battery.
 
 
-REAl Draft Intro:
-
-Native to the freshwater of South America, the *Electrophorus electricus*, or more commonly known as the electric eel, is known for its ability to generate electric discharges using speicalized muscles called electrocytes. Unfortunately, the voltages produced by an individual electrocyte cells is minimal (approximately 150 mV according to L. Guezi et al.).The purpose of this experiment is to simulate the electrocytes of the electric eel in order to explore potential uses of this biological battery and to optimize the voltage obtained using semi-permeable ionic membranes and placing the synthetic electrocyte set-up in saltwater. 
