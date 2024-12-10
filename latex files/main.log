@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.13)  24 OCT 2024 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.13)  10 DEC 2024 12:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/main.tex"
-(c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/main.tex
+**"c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex"
+(c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
 (C:\Users\bwgga\Documents\App setups\MiKTeX\tex/latex/base\article.cls
@@ -875,23 +875,23 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B737A513EA8642E7FF8F0A343E0BCB2B;704.
+(rerunfilecheck)             Checksum: BEFE722D9F0F392FC486406998F73BA8;423.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38380 strings out of 474491
- 887268 string characters out of 5744737
+ 38378 strings out of 474491
+ 887380 string characters out of 5744737
  1931473 words of memory out of 5000000
- 60088 multiletter control sequences out of 15000+600000
+ 60087 multiletter control sequences out of 15000+600000
  564482 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,6n,107p,805b,801s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,6n,107p,817b,801s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on main.pdf (2 pages, 96326 bytes).
+Output written on main.pdf (2 pages, 92695 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

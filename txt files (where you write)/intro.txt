@@ -41,8 +41,8 @@ What to say in intro: (O for done, X for not done)
 
 draft intro:
 Native to the freshwater rivers of South America, the Electrophorus electricus, or more commonly referred to as the electric eel, is
-known for its ability to generate electric organ discharges (EOD); these EODs can be classified into low-voltage EOD and high-voltage 
-EOD. Low-voltage EODs are expressed at lower frequencies of about 10Hz to 20Hz (K.C Catania, 2019). Therefore, they are more practical 
+known for its ability to generate electric organ discharges (EOD); these EODs can be classified into low-voltage EODs and high-voltage 
+EODs. Low-voltage EODs are expressed at lower frequencies of about 10Hz to 20Hz (K.C Catania, 2019). Therefore, they are more practical 
 for communication and determining the presence of organisms in their environment through a process called electrolocation: monitoring 
 changes in a particular electric field (Bennett,1970). On the other hand, high-voltage EODs are used as an attack or defence mechanism, 
 as they can reach frequencies of up to 500 Hz (K.C. Catania, 2019). However, whether the emitted EODs are expressed as low or high 

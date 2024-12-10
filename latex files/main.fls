@@ -1,6 +1,6 @@
-PWD c:\Users\bwgga\Documents\School\Dawson\F24\Bio I\Biology-CE-Project
+PWD c:\Users\bwgga\Documents\School\Dawson\F24\Bio I\Biology-CE-Project\latex files
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\bwgga\Documents\School\Dawson\F24\Bio I\Biology-CE-Project\main.tex
+INPUT c:\Users\bwgga\Documents\School\Dawson\F24\Bio I\Biology-CE-Project\latex files\main.tex
 OUTPUT main.log
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\latex\base\article.cls
