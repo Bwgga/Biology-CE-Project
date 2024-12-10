@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.13)  10 DEC 2024 18:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.13)  10 DEC 2024 18:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -872,18 +872,18 @@ File: ./figs/fig1.jpg Graphic file (type jpg)
 <use ./figs/fig1.jpg>
 Package pdftex.def Info: ./figs/fig1.jpg  used on input line 114.
 (pdftex.def)             Requested size: 281.85587pt x 158.54236pt.
- [2 <./figs/fig1.jpg>]
-<./figs/fig2.png, id=68, 4047.12pt x 2276.505pt>
+ [2 <./figs/fig1.jpg>] [3]
+<./figs/fig2.png, id=82, 4047.12pt x 2276.505pt>
 File: ./figs/fig2.png Graphic file (type png)
 <use ./figs/fig2.png>
-Package pdftex.def Info: ./figs/fig2.png  used on input line 169.
+Package pdftex.def Info: ./figs/fig2.png  used on input line 199.
 (pdftex.def)             Requested size: 281.85587pt x 158.53795pt.
-<./figs/fig3.png, id=69, 2276.505pt x 4047.12pt>
+<./figs/fig3.png, id=83, 2276.505pt x 4047.12pt>
 File: ./figs/fig3.png Graphic file (type png)
 <use ./figs/fig3.png>
-Package pdftex.def Info: ./figs/fig3.png  used on input line 176.
-(pdftex.def)             Requested size: 187.89914pt x 334.02737pt.
- [3] [4 <./figs/fig2.png (PNG copy)> <./figs/fig3.png (PNG copy)>] [5] [6] (main.aux)
+Package pdftex.def Info: ./figs/fig3.png  used on input line 223.
+(pdftex.def)             Requested size: 93.94957pt x 166.9828pt.
+ [4 <./figs/fig2.png (PNG copy)> <./figs/fig3.png (PNG copy)>] [5] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
@@ -895,17 +895,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38378 strings out of 474491
- 889172 string characters out of 5744737
- 1941473 words of memory out of 5000000
+ 38377 strings out of 474491
+ 889166 string characters out of 5744737
+ 1939473 words of memory out of 5000000
  60073 multiletter control sequences out of 15000+600000
  566198 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,8n,107p,2506b,1387s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,8n,107p,2506b,1317s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\bwgga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (6 pages, 15963994 bytes).
+Output written on main.pdf (5 pages, 15963427 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
  60 words of extra memory for PDF output out of 10000 (max. 10000000)
 
