@@ -1,12 +1,13 @@
 # Fdb version 4
-["biber main"] 1733870224.29038 "main.bcf" "main.bbl" "main" 1733870227.25138 2
-  "main.bcf" 0 -1 0 "pdflatex"
+["biber main"] 1733870524.95496 "main.bcf" "main.bbl" "main" 1733870534.85446 0
+  "Bio-ce.bib" 1733867484 14698 28a51c3dc864535679fc995f89ab9993 ""
+  "main.bcf" 1733870534 108763 ced7ca66671c74f9c25c0a0fa518d154 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1733869544.21549 "c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex" "main.pdf" "main" 1733869546.75815 0
-  "C:/Users/bwgga/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729614812 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1733870532.56495 "c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex" "main.pdf" "main" 1733870534.8554 0
+  "C:/Users/bwgga/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733870007 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/bwgga/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1717631142 11548 fe352a3fb102eb93d1c1dc253eef0cf9 ""
   "C:/Users/bwgga/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1717631110 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/bwgga/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1717631112 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -182,6 +183,7 @@
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/biblatex/blx-dm.def" 1679055682 32455 8d3e554836db11aab80a8e11be62e1b1 ""
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/biblatex/cbx/numeric.cbx" 1679055682 4629 cda468e8a0b1cfa0f61872e171037a4b ""
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/biblatex/lbx/english.lbx" 1679055682 39965 48ce9ce3350aba9457f1020b1deba5cf ""
+  "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/booktabs/booktabs.sty" 1579093635 6253 f1cb470c9199e7110a27851508ed7a5c ""
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1601897756 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
@@ -227,16 +229,16 @@
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/bwgga/Documents/App setups/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex" 1733869543 13479 009130f03730899fab9ac26113b288e3 ""
+  "c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex" 1733870519 14583 53bfd0012b843e00d115d074c3d05e96 ""
   "figs/fig1.jpg" 1733868386 42172 6a9fc99c21880cb9c2b639173e288734 ""
   "figs/fig2.png" 1733868823 7805219 365da8b339e4448d42b58110b939044d ""
   "figs/fig3.png" 1733868966 7926596 652753347a4e48fe4dbe7215d2746937 ""
-  "main.aux" 0 -1 0 "pdflatex"
-  "main.bbl" 1733870226 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.out" 0 -1 0 "pdflatex"
-  "main.run.xml" 0 -1 0 "pdflatex"
-  "main.tex" 1733869543 13479 009130f03730899fab9ac26113b288e3 ""
-  "main.toc" 0 -1 0 "pdflatex"
+  "main.aux" 1733870534 4003 6e390f5b01faa0e67b0db5014e7e9b60 "pdflatex"
+  "main.bbl" 1733870527 21221 c9bf07e137645c13fb71cd8d5eb56017 "biber main"
+  "main.out" 1733870534 505 a7ee61d11d17b902a88f94f81adecd7e "pdflatex"
+  "main.run.xml" 1733870534 2301 0ef382e74cb00e9eb4e7e81b43d4dce0 "pdflatex"
+  "main.tex" 1733870519 14583 53bfd0012b843e00d115d074c3d05e96 ""
+  "main.toc" 1733870534 274 325be24cde33f2403a6381ee4a758def "pdflatex"
   (generated)
   "main.aux"
   "main.auxlock"

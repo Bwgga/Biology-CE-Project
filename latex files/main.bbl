@@ -1,0 +1,378 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{bennettComparativePhysiologyElectric1970}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2d2ff11cd5c8b0b606a0efa3d8a77cc7}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi V.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{2d2ff11cd5c8b0b606a0efa3d8a77cc7}
+      \strng{fullhash}{2d2ff11cd5c8b0b606a0efa3d8a77cc7}
+      \strng{bibnamehash}{2d2ff11cd5c8b0b606a0efa3d8a77cc7}
+      \strng{authorbibnamehash}{2d2ff11cd5c8b0b606a0efa3d8a77cc7}
+      \strng{authornamehash}{2d2ff11cd5c8b0b606a0efa3d8a77cc7}
+      \strng{authorfullhash}{2d2ff11cd5c8b0b606a0efa3d8a77cc7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0066-4278, 1545-1585}
+      \field{journaltitle}{Annual Review of Physiology}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{Volume 32, 1970}
+      \field{shorttitle}{Comparative {{Physiology}}}
+      \field{title}{Comparative {{Physiology}}: {{Electric Organs}}}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{32}
+      \field{year}{1970}
+      \field{urldateera}{ce}
+      \field{pages}{471\bibrangedash 528}
+      \range{pages}{58}
+      \verb{doi}
+      \verb 10.1146/annurev.ph.32.030170.002351
+      \endverb
+    \endentry
+    \entry{boisseletBiomimeticPotentialElectric2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5562a3679c29f246055a101f4a2c7adc}{%
+           family={Boisselet},
+           familyi={B\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5562a3679c29f246055a101f4a2c7adc}
+      \strng{fullhash}{5562a3679c29f246055a101f4a2c7adc}
+      \strng{bibnamehash}{5562a3679c29f246055a101f4a2c7adc}
+      \strng{authorbibnamehash}{5562a3679c29f246055a101f4a2c7adc}
+      \strng{authornamehash}{5562a3679c29f246055a101f4a2c7adc}
+      \strng{authorfullhash}{5562a3679c29f246055a101f4a2c7adc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Electric eels use electric current discharge for stunning prey, navigation and self-defence. Their specialized cells are called electrolytes.}
+      \field{chapter}{Bottom-up approach}
+      \field{journaltitle}{Blogionik}
+      \field{langid}{ngerman}
+      \field{month}{9}
+      \field{title}{{Biomimetic potential of electric eels}}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\bwgga\Zotero\storage\CXIUSF4Z\biomimetic-potential-electric-eels.html
+      \endverb
+    \endentry
+    \entry{carlsonAnimalBehaviorElectric2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=af23acfc2edceedb170abdc0d5f82ee2}{%
+           family={Carlson},
+           familyi={C\bibinitperiod},
+           given={Bruce\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{af23acfc2edceedb170abdc0d5f82ee2}
+      \strng{fullhash}{af23acfc2edceedb170abdc0d5f82ee2}
+      \strng{bibnamehash}{af23acfc2edceedb170abdc0d5f82ee2}
+      \strng{authorbibnamehash}{af23acfc2edceedb170abdc0d5f82ee2}
+      \strng{authornamehash}{af23acfc2edceedb170abdc0d5f82ee2}
+      \strng{authorfullhash}{af23acfc2edceedb170abdc0d5f82ee2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{09609822}
+      \field{journaltitle}{Current Biology}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{22}
+      \field{shorttitle}{Animal {{Behavior}}}
+      \field{title}{Animal {{Behavior}}: {{Electric Eels Amp Up}} for an {{Easy Meal}}}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{25}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{R1070\bibrangedash R1072}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.cub.2015.09.051
+      \endverb
+      \verb{file}
+      \verb C:\Users\bwgga\Zotero\storage\M49FA9FL\Carlson - 2015 - Animal Behavior Electric Eels Amp Up for an Easy .pdf
+      \endverb
+    \endentry
+    \entry{cataniaAstonishingBehaviorElectric2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e60a74189ddaa0d1df3602accca17ca7}{%
+           family={Catania},
+           familyi={C\bibinitperiod},
+           given={Kenneth\bibnamedelima C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e60a74189ddaa0d1df3602accca17ca7}
+      \strng{fullhash}{e60a74189ddaa0d1df3602accca17ca7}
+      \strng{bibnamehash}{e60a74189ddaa0d1df3602accca17ca7}
+      \strng{authorbibnamehash}{e60a74189ddaa0d1df3602accca17ca7}
+      \strng{authornamehash}{e60a74189ddaa0d1df3602accca17ca7}
+      \strng{authorfullhash}{e60a74189ddaa0d1df3602accca17ca7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The remarkable physiology of the electric eel (Electrophorus electricus) made it one of the first model species in science. It was pivotal for understanding animal electricity in the 1700s, was investigated by Humboldt and Faraday in the 1800s, was leveraged to isolate the acetylcholine receptor in the 20th century, and has inspired the design of new power sources and provided insights to electric organ evolution in the 21st century. And yet few studies have investigated the electric eel's behavior. This review focuses on a series of recently discovered behaviors that evolved alongside the eel's extreme physiology. Eels use their high-voltage electric discharge to remotely control prey by transcutaneously activating motor neurons. Hunting eels use this behavior in two different ways. When prey have been detected, eels use high-voltage to cause immobility by inducing sustained, involuntary muscle contractions. On the other hand, when prey are hidden, eels often use brief pulses to induce prey twitch, which causes a water movement detected by the eel's mechanoreceptors. Once grasped in the eel's jaws, difficult prey are often subdued by sandwiching them between the two poles (head and tail) of the eel's powerful electric organ. The resulting concentration of the high-voltage discharge, delivered at high-rates, causes involuntary fatigue in prey muscles. This novel strategy for inactivating muscles is functionally analogous to poisoning the neuromuscular junction with venom. For self-defense, electric eels leap from the water to directly electrify threats, efficiently activating nociceptors to deter their target. The latter behavior supports a legendary account by Alexander von Humboldt who described a battle between electric eels and horses in 1800. Finally, electric eels use high-voltage not only as a weapon, but also to efficiently track fast-moving prey with active electroreception. In conclusion, remarkable behaviors go hand in hand with remarkable physiology.}
+      \field{issn}{1662-5145}
+      \field{journaltitle}{Frontiers in Integrative Neuroscience}
+      \field{month}{7}
+      \field{title}{The {{Astonishing Behavior}} of {{Electric Eels}}}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{13}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{23}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fnint.2019.00023
+      \endverb
+      \verb{file}
+      \verb C:\Users\bwgga\Zotero\storage\8WJE2UQ5\Catania - 2019 - The Astonishing Behavior of Electric Eels.pdf
+      \endverb
+    \endentry
+    \entry{ElectricCircuits6ElectricEels2015}{incollection}{}
+      \list{publisher}{1}{%
+        {The University of Western Australia}%
+      }
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{Electric {{Circuits}} 6: {{Electric}} Eels}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\bwgga\Zotero\storage\S4MB4X2J\electric-eels.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.uwa.edu.au/study/-/media/faculties/science/docs/electric-eels.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.uwa.edu.au/study/-/media/faculties/science/docs/electric-eels.pdf
+      \endverb
+    \endentry
+    \entry{gueziTheoreticalExaminationConception2023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e530c2ecedf41914bd5e027a2e91061e}{%
+           family={Guezi},
+           familyi={G\bibinitperiod},
+           given={Lina},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c4f6090201d5e106a7e2233c7651e8ed}{%
+           family={Eom},
+           familyi={E\bibinitperiod},
+           given={Yelin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bc00a75d706dbc292e027245c180a3bd}{%
+           family={Rubalsky},
+           familyi={R\bibinitperiod},
+           given={Misha},
+           giveni={M\bibinitperiod}}}%
+        {{hash=012bbdf668088618240d500f6f1762bf}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jasmine},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6871105e2ce9f070adeaff28a2a324a}
+      \strng{fullhash}{804c9858d7eb35131424b87058a7913b}
+      \strng{bibnamehash}{a6871105e2ce9f070adeaff28a2a324a}
+      \strng{authorbibnamehash}{a6871105e2ce9f070adeaff28a2a324a}
+      \strng{authornamehash}{a6871105e2ce9f070adeaff28a2a324a}
+      \strng{authorfullhash}{804c9858d7eb35131424b87058a7913b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The purpose of this project is to theoretically create a biological battery using synthetic electrocytes, inspired by Electrophorus electricus, commonly known as the electric eel. The difference in voltage and power between keeping the synthetic electrocytes in fresh water and keeping them in salt water was calculated. This was done by first calculating the resistivity of ρ Nafion, the ion-conductive membrane used in this project. Knowing that Nafion’s high proton conductivity was 0.1S/cm (Kumar et al., 2018), it was determined that its was 100,000Ω · μm. ρ Assuming a diameter of 6μm, it was determined the ideal length for the ion-conductive membrane would be 18.85μm. Assuming a width of 2μm and a height of 5μm, the cross-section area was calculated to be 10μ²m². The resistivity of the membrane in fresh water was therefore calculated to be 188,500Ω. As for the resistance of the saltwater in which the ion-conductive membrane was to be found, knowing that that saltwater’s conductivity was 5 S/m (Water Conductivity - Lenntech, 2023), the ρ was determined to be 200,000Ω · μm, the cross-sectional area to be 28.27μ²m², the length of the cylinder to be 6μm, and the resistance of the saltwater to be 42,448Ω. The total resistance of the ion-conductive membrane in saltwater was calculated to be 230,948Ω. The intensity of the current was calculated to be 3.03 x 10-7A, since the voltage provided by the other team was approximately 70mV. The power produced by the battery with saltwater was calculated to be 2.12 x 10-8W. As for the freshwater, its conductivity was 0.05S/m (Water Conductivity - Lenntech, 2023), meaning that its ρ was 20,000,000Ω · μm. Its resistance was calculated to be 4,244,782Ω. The resistance of the entire battery was calculated to be 4,433,282Ω. Its current was 1.65 x 10-8A and its power was 1.15 x 10-9W. The battery using saltwater showed a higher power output than the battery using freshwater. The voltage of our battery differs from that of a cell of an electric eel (70mV compared with 150mV) (Gotter et al.). Furthermore, since electric eels live in freshwater and our battery contained saltwater, it would be possible to optimize our battery using saltwater, as that gives it a higher power output than freshwater.}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{Theoretical {{Examination}} of the {{Conception}} of a {{Biological Battery Containing Synthetic}}}
+      \field{year}{2017}
+      \field{pages}{12}
+      \range{pages}{1}
+      \verb{file}
+      \verb C:\Users\bwgga\Documents\School\Dawson\F24\Bio I\Yelin Eom, Lina Guezi, Misha Rubalsky, Jasmine Wang Theoretical Examination of the Conception of a Biological Battery Containing Synthetic Electrocytes_e3d08b1fc07b931aa4457d1fa22290f7.pdf
+      \endverb
+    \endentry
+    \entry{MolecularWeightCut2014}{online}{}
+      \list{organization}{1}{%
+        {Synder Filtration}%
+      }
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How to define the molecular weight cut off (MWCO) of membranes, and select proper molecular weight cut offs for an application.}
+      \field{day}{22}
+      \field{hour}{7}
+      \field{langid}{american}
+      \field{minute}{49}
+      \field{month}{7}
+      \field{second}{36}
+      \field{timezone}{Z}
+      \field{title}{Molecular {{Weight Cut Off}}}
+      \field{urlday}{6}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\bwgga\Zotero\storage\WQ77I3KA\molecular-weight-cut-off.html
+      \endverb
+      \verb{urlraw}
+      \verb https://synderfiltration.com/learning-center/articles/membranes/molecular-weight-cut-off/
+      \endverb
+      \verb{url}
+      \verb https://synderfiltration.com/learning-center/articles/membranes/molecular-weight-cut-off/
+      \endverb
+    \endentry
+    \entry{MolecularWeightDetermination}{online}{}
+      \list{organization}{1}{%
+        {USP-NF}%
+      }
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{title}{Molecular {{Weight Determination}} for {{Alginates}} | {{USP-NF}}}
+      \field{urlday}{8}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\bwgga\Zotero\storage\RBSCFFLP\312-gc-prospectus-20211029.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.uspnf.com/notices/312-gc-prospectus-20211029
+      \endverb
+      \verb{url}
+      \verb https://www.uspnf.com/notices/312-gc-prospectus-20211029
+      \endverb
+    \endentry
+    \entry{niriQuantifyingKeyFactors2022}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ad6ab498be106066a0685200178d56b0}{%
+           family={Niri},
+           familyi={N\bibinitperiod},
+           given={Mona\bibnamedelima Faraji},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=a77afcfbd8e7cb64d273a10b3d7d9c21}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Kailong},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d662b26d4925f9ae45f87a68a559b3ed}{%
+           family={Apachitei},
+           familyi={A\bibinitperiod},
+           given={Geanina},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1a29e5826def989e455bd839ae12607f}{%
+           family={Román-Ramírez},
+           familyi={R\bibinithyphendelim R\bibinitperiod},
+           given={Luis\bibnamedelimb A.\bibnamedelimi A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=56d7d89af818f14b8b1d5002544a11d4}{%
+           family={Lain},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=361fd2a3e63b13b035e9e82042da8b1a}{%
+           family={Widanage},
+           familyi={W\bibinitperiod},
+           given={Dhammika},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bbdb71544d7f5a1e7906df31cc5af721}{%
+           family={Marco},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7a5c3560c817ed9869209670a3b0971}
+      \strng{fullhash}{727159cd43b0a714f131b5b56af3be41}
+      \strng{bibnamehash}{a7a5c3560c817ed9869209670a3b0971}
+      \strng{authorbibnamehash}{a7a5c3560c817ed9869209670a3b0971}
+      \strng{authornamehash}{a7a5c3560c817ed9869209670a3b0971}
+      \strng{authorfullhash}{727159cd43b0a714f131b5b56af3be41}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Li-ion battery is one of the key players in energy storage technology empowering electrified and clean transportation systems. However, it is still associated with high costs due to the expensive material as well as high fluctuations of the manufacturing process. Complicated production processes involving mechanical, chemical, and electrical operations makes the predictability of the manufacturing process a challenge, hence the process is optimised through trial and error rather systematic simulation. To establish an in-depth understanding of the interconnected processes and manufacturing parameters, this paper combines data-mining techniques and real production to offer a method for the systematic analysis, understanding and improving the Li-ion battery electrode manufacturing chain. The novelty of this research is that unlike most of the existing research that are focused on cathode manufacturing only, it covers both of the cathode and anode case studies. Furthermore, it is based on real manufacturing data, proposes a systematic design of experiment method for generating high quality and representative data, and leverages the artificial intelligence techniques to identify the dependencies in between the manufacturing parameters and the key quality factors of the electrode. Through this study, machine learning models are developed to quantify the predictability of electrode and cell properties given the coating process control parameters. Moreover, the manufacturing parameters are ranked and their contribution to the electrode and cell characteristics are quantified by models. The systematic data acquisition approach as well as the quantified interdependencies are expected to assist the manufacturer when moving towards an improved battery production chain.}
+      \field{day}{1}
+      \field{issn}{2666-5468}
+      \field{journaltitle}{Energy and AI}
+      \field{month}{1}
+      \field{shortjournal}{Energy and AI}
+      \field{title}{Quantifying Key Factors for Optimised Manufacturing of {{Li-ion}} Battery Anode and Cathode via Artificial Intelligence}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{7}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{100129}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.egyai.2021.100129
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\bwgga\\Zotero\\storage\\I7EGBKH5\\Niri et al. - 2022 - Quantifying key factors for optimised manufacturin.pdf;C\:\\Users\\bwgga\\Zotero\\storage\\2843H2RX\\S2666546821000768.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666546821000768
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666546821000768
+      \endverb
+      \keyw{Anode,Artificial intelligence,Battery manufacturing,Cathode,Li-ion battery electrodes,Machine learning}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
