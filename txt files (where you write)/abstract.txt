@@ -1,4 +1,4 @@
-Title: [draft] Making and testing prototype biological inspired battery
+Title: On the Laboratory Synthesis of Electric Eel Electrocytes
 Key words: Battery, Dialysis Membrane, Dialysis Tubing, Eel, Electric Eel, Electrocyte, Sodium Alginate, Voltage
 
 Draft Abstract:
