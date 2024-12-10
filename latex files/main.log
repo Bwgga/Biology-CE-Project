@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.13)  10 DEC 2024 17:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.13)  10 DEC 2024 18:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -816,10 +816,11 @@ LaTeX Font Info:    ... okay on input line 59.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 59.
+(main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-(C:\Users\bwgga\Documents\App setups\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\bwgga\Documents\App setups\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count458
 \scratchdimen=\dimen297
@@ -859,501 +860,52 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 62.
 (C:\Users\bwgga\Documents\App setups\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-No file main.toc.
+) (main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
-[1
+ [1
 
 {C:/Users/bwgga/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<./figs/fig1.jpg, id=27, 1284.8pt x 722.7pt>
+<./figs/fig1.jpg, id=49, 1284.8pt x 722.7pt>
 File: ./figs/fig1.jpg Graphic file (type jpg)
 <use ./figs/fig1.jpg>
 Package pdftex.def Info: ./figs/fig1.jpg  used on input line 114.
 (pdftex.def)             Requested size: 281.85587pt x 158.54236pt.
  [2 <./figs/fig1.jpg>]
-<./figs/fig2.png, id=45, 4047.12pt x 2276.505pt>
+<./figs/fig2.png, id=68, 4047.12pt x 2276.505pt>
 File: ./figs/fig2.png Graphic file (type png)
 <use ./figs/fig2.png>
 Package pdftex.def Info: ./figs/fig2.png  used on input line 169.
 (pdftex.def)             Requested size: 281.85587pt x 158.53795pt.
-<./figs/fig3.png, id=46, 2276.505pt x 4047.12pt>
+<./figs/fig3.png, id=69, 2276.505pt x 4047.12pt>
 File: ./figs/fig3.png Graphic file (type png)
 <use ./figs/fig3.png>
 Package pdftex.def Info: ./figs/fig3.png  used on input line 176.
 (pdftex.def)             Requested size: 187.89914pt x 334.02737pt.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 186.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:189: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.189 ...V) & Voltage after 12 hours (mV) \ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:189: You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.189 ...V) & Voltage after 12 hours (mV) \ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:189: Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.189 ...V) & Voltage after 12 hours (mV) \ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:189: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.189 ...V) & Voltage after 12 hours (mV) \ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:190: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.190 	0                                &
-                                          1.2                  & 2.6        ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:191: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.191 ...                 & 1.8                  &
-                                                   3.7                      ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:191: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.191 ...   & 3.7                         \ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:191: You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.191 ...   & 3.7                         \ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:191: Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.191 ...   & 3.7                         \ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:191: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.191 ...   & 3.7                         \ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:193: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.193 	1.25                             &
-                                          N/A                  & 39         ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:194: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.194 ...                 & N/A                  &
-                                                   46                       ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:194: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.194 ...   & 46                          \ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:194: You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.194 ...   & 46                          \ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:194: Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.194 ...   & 46                          \ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:194: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.194 ...   & 46                          \ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:196: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.196 	1.25 (with aluminium)            &
-                                          639                  & 141        ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:196: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.196 ...   & 141                         \ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:196: You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.196 ...   & 141                         \ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:196: Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.196 ...   & 141                         \ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:196: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.196 ...   & 141                         \ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 203.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:206: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.206 ...V) & Voltage after 12 hours (mV) \ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:206: You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.206 ...V) & Voltage after 12 hours (mV) \ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:206: Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.206 ...V) & Voltage after 12 hours (mV) \ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:206: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.206 ...V) & Voltage after 12 hours (mV) \ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:207: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.207 	0                                &
-                                          1.2                  & 2.6        ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:208: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.208 ...                 & 1.8                  &
-                                                   3.7                      ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:208: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.208 ...   & 3.7                         \ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:208: You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.208 ...   & 3.7                         \ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:208: Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.208 ...   & 3.7                         \ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:208: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.208 ...   & 3.7                         \ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:210: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.210 	1.25                             &
-                                          N/A                  & 39         ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:211: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.211 ...                 & N/A                  &
-                                                   46                       ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:211: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.211 ...   & 46                          \ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:211: You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.211 ...   & 46                          \ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:211: Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.211 ...   & 46                          \ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:211: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.211 ...   & 46                          \ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:213: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.213 	1.25 (with aluminium)            &
-                                          639                  & 141        ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:213: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.213 ...   & 141                         \ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:213: You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.213 ...   & 141                         \ \hline
-                                                  
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:213: Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.213 ...   & 141                         \ \hline
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:213: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.213 ...   & 141                         \ \hline
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-Overfull \hbox (11.13475pt too wide) in paragraph at lines 219--220
-\OT1/cmr/m/n/10 The re-sults ob-tained by the lab in-di-cate that the volt-ages pro-duced by the ex-per-i-men-tal repli-cates (M=81.82mV,
- []
-
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:221: LaTeX Error: Unicode character α (U+03B1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.221 ...p-value of .048, less than the general α
-                                                   value of 0.05, and theref...
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[3] [4 <./figs/fig2.png (PNG copy)> <./figs/fig3.png (PNG copy)>]
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:223: Missing $ inserted.
-<inserted text> 
-                $
-l.223 ... noted results have an uncertainty of \pm
-                                                   10mV due to this fluctuat...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/bwgga/Documents/School/Dawson/F24/Bio I/Biology-CE-Project/latex files/main.tex:224: Missing $ inserted.
-<inserted text> 
-                $
-l.224 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-[5] [6] (main.aux)
+ [3] [4 <./figs/fig2.png (PNG copy)> <./figs/fig3.png (PNG copy)>] [5] [6] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  A7EE61D11D17B902A88F94F81ADECD7E;505.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: A7EE61D11D17B902A88F94F81ADECD7E;505.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38374 strings out of 474491
- 889171 string characters out of 5744737
+ 38378 strings out of 474491
+ 889172 string characters out of 5744737
  1941473 words of memory out of 5000000
- 60074 multiletter control sequences out of 15000+600000
- 565890 words of font info for 66 fonts, out of 8000000 for 9000
+ 60073 multiletter control sequences out of 15000+600000
+ 566198 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,8n,107p,2506b,1467s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\bwgga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (6 pages, 15947843 bytes).
+ 99i,8n,107p,2506b,1387s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\bwgga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (6 pages, 15963994 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 175 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
+ 60 words of extra memory for PDF output out of 10000 (max. 10000000)
 

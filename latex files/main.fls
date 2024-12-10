@@ -323,8 +323,14 @@ INPUT .\main.aux
 INPUT .\main.aux
 INPUT main.aux
 OUTPUT main.aux
-OUTPUT main.out
+INPUT .\main.out
+INPUT .\main.out
+INPUT main.out
+INPUT main.out
 OUTPUT main.pdf
+INPUT .\main.out
+INPUT .\main.out
+OUTPUT main.out
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -365,6 +371,10 @@ INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 OUTPUT main.toc
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
@@ -398,9 +408,12 @@ INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
+INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
