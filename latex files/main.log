@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.13)  10 DEC 2024 17:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.13)  10 DEC 2024 17:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -739,7 +739,11 @@ File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 \@quotelevel=\count452
 \@quotereset=\count453
- (main.aux)
+ (main.aux
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
@@ -847,34 +851,57 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
  [1
 
 {C:/Users/bwgga/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<./figs/fig1.jpg, id=53, 1284.8pt x 722.7pt>
+<./figs/fig1.jpg, id=48, 1284.8pt x 722.7pt>
 File: ./figs/fig1.jpg Graphic file (type jpg)
 <use ./figs/fig1.jpg>
-Package pdftex.def Info: ./figs/fig1.jpg  used on input line 104.
+Package pdftex.def Info: ./figs/fig1.jpg  used on input line 110.
 (pdftex.def)             Requested size: 281.85587pt x 158.54236pt.
- [2 <./figs/fig1.jpg>] [3] (main.aux)
+ [2 <./figs/fig1.jpg>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 138.
+
+<./figs/fig2.png, id=65, 4047.12pt x 2276.505pt>
+File: ./figs/fig2.png Graphic file (type png)
+<use ./figs/fig2.png>
+Package pdftex.def Info: ./figs/fig2.png  used on input line 140.
+(pdftex.def)             Requested size: 281.85587pt x 158.53795pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 145.
+
+<./figs/fig3.png, id=66, 2276.505pt x 4047.12pt>
+File: ./figs/fig3.png Graphic file (type png)
+<use ./figs/fig3.png>
+Package pdftex.def Info: ./figs/fig3.png  used on input line 147.
+(pdftex.def)             Requested size: 281.85587pt x 501.07195pt.
+[3 <./figs/fig2.png (PNG copy)>] [4 <./figs/fig3.png (PNG copy)>] [5] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B97D37458B0A4B68A17F7FA4C35A976F;517.
+(rerunfilecheck)             Checksum: A7EE61D11D17B902A88F94F81ADECD7E;505.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38269 strings out of 474491
- 887048 string characters out of 5744737
+ 38289 strings out of 474491
+ 887424 string characters out of 5744737
  1936473 words of memory out of 5000000
- 59975 multiletter control sequences out of 15000+600000
+ 59992 multiletter control sequences out of 15000+600000
  566198 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,7n,107p,2506b,1318s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,7n,107p,2506b,1470s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\bwgga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/bwgga/Documents/App setups/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (3 pages, 222675 bytes).
+Output written on main.pdf (5 pages, 15939094 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 60 words of extra memory for PDF output out of 10000 (max. 10000000)
 
