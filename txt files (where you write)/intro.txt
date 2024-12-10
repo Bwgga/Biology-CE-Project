@@ -40,3 +40,4 @@ What to say in intro: (O for done, X for not done)
 
 
 draft intro:
+Native to the rivers of South America, the *Electrophorus electricus*, more commonly known as the electric eel, releases high voltage currents through electrocyte cells, which allows it to generate a relatively large amount of electricity. The purpose of this experiment is to simulate the electrocytes of the electric eel in order to explore potential uses of this naturally occurring biological battery
