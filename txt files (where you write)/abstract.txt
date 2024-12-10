@@ -1,13 +1,13 @@
 Title: [draft] Making and testing prototype biological inspired battery
-Key words: 
+Key words: Battery, Dialysis Membrane, Dialysis Tubing, Eel, Electric Eel, Electrocyte, Sodium Alginate, Voltage
 
 Draft Abstract:
 
-This paper explores the experimental replication of electric eel cells. By simulating the electrochemical 
+This paper explores the experimental simulation of electric eel cells. By simulating the electrochemical 
 conditions found within eel electrocytes on a macroscopic scale, this experiment was able to produce 
 significant voltages ranging in the hundreds of millivolts. Specifically, this experiment employed 
 the use of sodium alginate, an organic salt that releases Na+ ions in water, to simulate the release of sodium 
 ions in electrocytes. By using dialysis tubing with a specific pore size, it was possible to trap the alginate 
-while allowing the diffusion of Na+, thereby creating a charge differential across the tubing and inducing a 
+while allowing the diffusion of Na+, thereby creating a charge differential across the tubing and inducing a measurable
 voltage.
 
