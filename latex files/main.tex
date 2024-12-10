@@ -28,7 +28,7 @@
 
 %references
 \usepackage{biblatex} %Imports biblatex package
-\addbibresource{[latex files/Bio-ce.bib]}
+\addbibresource{Bio-ce.bib}
 
 %math stuff
 \usepackage{algorithm, algpseudocode} % use algorithm and algorithmicx for typesetting algorithms
@@ -68,6 +68,35 @@ Submission: \today}
 
 \section{Introduction}
 \label{sec:introduction}
+
+Native to the freshwater rivers of South America, the \textit{Electrophorus electricus}, or more 
+commonly referred to as the electric eel, is known for its ability to generate high voltage shocks,
+formally known as electric organ discharges (EOD); these EODs can be classified into low-voltage 
+EODs and high-voltage EODs. Low-voltage EODs are expressed at lower frequencies of about 10Hz to
+20Hz \parencite{cataniaAstonishingBehaviorElectric2019}, reaching about 10 V \parencite{ElectricCircuits6ElectricEels2015}. 
+Therefore, they are more practical for communication and determining the presence of organisms 
+in their environment through a process called electrolocation: monitoring 
+changes in a particular electric field \parencite{bennettComparativePhysiologyElectric1970}. 
+On the other hand, high-voltage EODs are used as an attack or defence mechanism,
+the largest recorded voltage discharge being 500V \parencite{ElectricCircuits6ElectricEels2015}.
+However, whether the emitted EODs are expressed as low or high 
+voltages, they are produced from a specific cell that makes up 80\% of the eel’s body: electrocytes
+\parencite{carlsonAnimalBehaviorElectric2015}. These electrocyte cells are arranged in series and 
+in parallel and are located in the electric eel’s three most prominent organs: Sach’s organ, the 
+Main organ, and Hunter’s organ \parencite{ElectricCircuits6ElectricEels2015}. [cite this figure (Figure 1.)] This 
+arrangement allows for the entire eel to be viewed as a battery, with the positive and negative 
+poles at the head and tail respectively, allowing for the variety of EOD voltages mentioned above. 
+Although electric eels have the potential to release high-voltage EODs, the current produced remains
+nonetheless quite minimal (~1 A) \parencite{ElectricCircuits6ElectricEels2015}. This is a result 
+of the high resistance of the freshwater where these eels are found, or more precisely, the lack of 
+ions to maintain the electric current \parencite{boisseletBiomimeticPotentialElectric2017}. 
+Consequently, to optimize the battery potential of the electric eels EOD, research was conducted 
+by Lina Guezi \parencite{gueziTheoreticalExaminationConception2023}, a collegue of ours, to produce 
+a synthetic replication of the electric eel’s electrocyte 
+cells in ionized water. Our experiment aims to test their research findings by making our own battery prototype based off of their work with a few modifications in order to explore 
+the potential uses of this biological battery. To do so we used a dialysis membrane to isolate positive sodium ions ( $Na^+$), similarly to how the electric eels do in their
+electrocyte cells, which creates a potential gradient across our synthetic electrocyte cell. This process generates a voltage difference 
+which then produces an electric discharge.
 
 \section{Material and Methods}
 \label{sec:matandmet}

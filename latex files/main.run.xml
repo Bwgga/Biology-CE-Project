@@ -79,7 +79,7 @@
       <file>main.bcf</file>
     </requires>
     <requires type="editable">
-      <file>[latex files/Bio-ce.bib]</file>
+      <file>Bio-ce.bib</file>
     </requires>
   </external>
 </requests>
