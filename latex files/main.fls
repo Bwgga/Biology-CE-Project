@@ -381,6 +381,8 @@ INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\amsfonts\cmext
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs7.tfm
 INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT main.aux
@@ -388,6 +390,8 @@ INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
+INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\bwgga\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\bwgga\Documents\App setups\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
